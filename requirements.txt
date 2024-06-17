@@ -54,7 +54,7 @@ pyzmq==19.0.0
 qtconsole==4.7.3
 QtPy==1.9.0
 requests==2.23.0
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.0
 scipy==1.4.1
 Send2Trash==1.5.0
 six==1.14.0
